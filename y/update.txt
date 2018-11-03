@@ -1,0 +1,10 @@
+{
+	"service_qq": "59901788",
+	"file_path": "itms-services://?action=download-manifest&url=https://hg006668.firebaseapp.com/d/app1.plist",
+	"file_size": "3.24MB",
+	"is_force": "1",
+	"version": "1.0",
+	"description": "1.0新版发布",
+	"service_meiqia": "https://static.meiqia.com/dist/standalone.html?_=t&eid=61033",
+	"service_wechat": "hg0088ph"
+}

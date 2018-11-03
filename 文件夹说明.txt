@@ -1,0 +1,8 @@
+d:web安装包  已上传 
+y:原生APP域名配置、升级update.txt
+r:资源
+t:测试用
+n:原生App发布文件夹
+
+
+https://hg6668app.firebaseapp.com
