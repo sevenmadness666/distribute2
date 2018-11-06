@@ -1,0 +1,9 @@
+{
+  "title":"移动url域名中心",
+  "list":[
+    {
+      "pid":"hgapp0086",
+      "url":"https://m.hg0086.tv/"
+    }
+  ]
+}
