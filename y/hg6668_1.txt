@@ -3,6 +3,22 @@
   "list":[
     {
       "pid":"hgapp0086",
+      "url":"https://m.app666801.com/"
+    },
+    {
+      "pid":"hgapp0086",
+      "url":"https://m.app666802.com/"
+    },
+    {
+      "pid":"hgapp0086",
+      "url":"https://m.app666803.com/"
+    },
+    {
+      "pid":"hgapp0086",
+      "url":"https://m.hg98987.com/"
+    },
+    {
+      "pid":"hgapp0086",
       "url":"https://m.hhhg6668.com/"
     }
   ]
